@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizableDemo
+
+  Created by Menahem Barouk on 13/09/2018.
+  
+*/
+
+"home_view_controller_title" = "Boujour";
